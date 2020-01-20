@@ -1,2 +1,2 @@
 # test2
-Veryfing detion of repository
+Veryfing deletion of repository
